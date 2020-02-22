@@ -1,0 +1,130 @@
+﻿  main.cpp
+D:\Dev\cpp\Sfml\Sfml\main.cpp(6,20): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\levels.h(86,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(170,1): warning C4305: '*=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dev\cpp\Sfml\Sfml\levels.h(171,1): warning C4305: '*=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dev\cpp\Sfml\Sfml\levels.h(214,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(274,26): warning C4305: 'argument' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+D:\Dev\cpp\Sfml\Sfml\levels.h(457,17): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\levels.h(504,23): warning C4244: '=' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\Dev\cpp\Sfml\Sfml\levels.h(509,22): warning C4244: '=' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\Dev\cpp\Sfml\Sfml\levels.h(546,17): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(559,43): warning C4244: '=' : conversion de 'ValueType' en 'float', perte possible de données
+          with
+          [
+              ValueType=int
+          ]
+D:\Dev\cpp\Sfml\Sfml\levels.h(564,45): warning C4244: '=' : conversion de 'ValueType' en 'float', perte possible de données
+          with
+          [
+              ValueType=int
+          ]
+D:\Dev\cpp\Sfml\Sfml\levels.h(583,17): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(602,43): warning C4244: '=' : conversion de 'ValueType' en 'float', perte possible de données
+          with
+          [
+              ValueType=int
+          ]
+D:\Dev\cpp\Sfml\Sfml\levels.h(617,14): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(619,20): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(634,1): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(738,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(740,19): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(869,24): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\levels.h(621,41): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(645,44): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(654,44): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(663,44): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(723,41): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(742,40): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(763,42): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(773,42): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(783,42): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(835,43): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(851,40): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\main.cpp(126,10): warning C4244: '=' : conversion de 'double' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(127,10): warning C4244: '=' : conversion de 'double' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(128,10): warning C4244: '=' : conversion de 'double' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(388,25): warning C4305: '-=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(394,25): warning C4305: '-=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(400,25): warning C4305: '-=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(405,25): warning C4305: '-=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(444,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(445,65): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(477,27): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(484,27): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(494,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(498,27): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(517,27): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(562,27): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(572,27): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(582,27): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(592,27): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\Dev\cpp\Sfml\Sfml\main.cpp(677,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(855,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(934,82): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(935,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1334,48): warning C4244: '=' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1335,48): warning C4244: '=' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1336,48): warning C4244: '=' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1343,52): warning C4244: '=' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1344,52): warning C4244: '=' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1345,52): warning C4244: '=' : conversion de 'float' en 'sf::Uint8', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1384,53): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1389,53): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1396,53): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1684,55): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1698,55): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1725,55): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1736,55): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1739,34): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1877,120): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1910,83): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1911,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1920,62): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1920,35): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1932,63): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1932,36): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+D:\Dev\cpp\Sfml\Sfml\main.cpp(364,7): warning C4101: 'tickPlay' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\main.cpp(411,15): warning C4101: 'event' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1484,45): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1604,44): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1759,43): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\main.cpp(1866,43): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(435,39): warning C4101: 'e' : variable locale non référencée
+D:\Dev\cpp\Sfml\Sfml\levels.h(504): message : voir la référence à l'instanciation de la fonction modèle 'T getData<int>(T,nlohmann::json *)' en cours de compilation
+          with
+          [
+              T=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(632): message : voir la référence à l'instanciation classe modèle 'std::chrono::duration<double,std::ratio<1,1>>' en cours de compilation
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(178): message : voir la référence à l'instanciation classe modèle 'std::chrono::duration<__int64,std::nano>' en cours de compilation
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(610): message : voir la référence à l'instanciation classe modèle 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' en cours de compilation
+D:\Dev\cpp\Sfml\Sfml\levels.h(440,38): warning C4101: 'e' : variable locale non référencée
+x64\Release\SLgineParticle.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+  Génération de code en cours
+  1 of 5217 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    55 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Sfml.vcxproj -> D:\Dev\cpp\Sfml\x64\Release\Sfml.exe
